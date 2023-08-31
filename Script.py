@@ -8,7 +8,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Decent_op>𝐃𝐞𝐜𝐞𝐧𝐭 𝐁𝐨𝐲</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Itsop_romeo>**Romeo op**</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
@@ -17,7 +17,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://graph.org/file/afea72d2fc5233e686b75.mp4>𝐓𝐡𝐢𝐬-𝐁𝐎𝐓</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Decent_op>𝐃𝐞𝐜𝐞𝐧𝐭 𝐁𝐨𝐲</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/Itsop_romeo>**Romeo op**</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -28,7 +28,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/decent_op https://t.me/decent_op</code>"""
+</code>/batch https://t.me/Itsop_romeo https://t.me/Itsop_romeo</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
